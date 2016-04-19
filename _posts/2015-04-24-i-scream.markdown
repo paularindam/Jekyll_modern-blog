@@ -3,7 +3,7 @@ title:  "Falling in love with a stranger"
 subtitle: "But do you scream?"
 author: "Arindam"
 avatar: "img/authors/profile2.png"
-image: "img/e.jpg"
+image: "img/c.jpg"
 date:   2015-04-24 12:12:12
 ---
 
