@@ -3,7 +3,7 @@ title:  "Love over ice-cream"
 subtitle: "The Bigger the better?"
 author: "Arindam"
 avatar: "img/authors/profile1.png"
-image: "img/c.jpg"
+image: "img/e.jpg"
 date:   2015-04-22 12:12:12
 ---
 ### Part 1
